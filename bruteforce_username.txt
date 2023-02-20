@@ -1,3 +1,4 @@
+12346578
 admin
 administrator
 superuser
@@ -6,3 +7,10 @@ user
 root
 guest
 test
+a
+anonymous
+password
+toor
+passw0rd
+ADMIN
+Admin
