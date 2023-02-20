@@ -4,3 +4,5 @@ superuser
 demo
 user
 root
+guest
+test
