@@ -1,0 +1,6 @@
+admin
+administrator
+superuser
+demo
+user
+root
