@@ -1,4 +1,3 @@
-12346578
 admin
 administrator
 superuser
@@ -8,10 +7,10 @@ root
 
 guest
 test
+12346578
 a
 anonymous
 password
 toor
 passw0rd
-ADMIN
-Admin
+
